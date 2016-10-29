@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHub Test</string>
+
+    <string name="dummy_button">Hello, GitHubers!</string>
+    <string name="dummy_content">GITHUB\nTEST</string>
+</resources>
